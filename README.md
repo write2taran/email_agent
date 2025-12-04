@@ -151,13 +151,6 @@ The file contains:
 - SQLite tables must have readable names or specify via `--table`
 
 ---
-
-## 📜 License
-
-MIT License — free for commercial and private projects.
-
----
-
 ## 🤝 Contributing
 
 Pull requests welcome, especially for:
